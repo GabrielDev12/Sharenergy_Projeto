@@ -1,0 +1,9 @@
+.register{
+    width: 40vw;
+    max-width: 500px;
+}
+@media (max-width: 900px) {
+    .register{
+        width: 65vw;
+    }
+}

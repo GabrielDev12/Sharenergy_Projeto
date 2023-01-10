@@ -1,0 +1,21 @@
+.PageRandon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    padding-bottom: 15px;
+}
+
+.ListRandon{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90vw;
+    max-width: 1200px;
+}
+
+.ListRandon li {
+    margin: 10px;
+}

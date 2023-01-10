@@ -1,0 +1,4 @@
+PORT=80
+
+MONGO_URL= "Adicione aqui a URL do Banco de Dados MongoDB"
+JWT_KEY= "Adicione aqui sua chave JWT"
