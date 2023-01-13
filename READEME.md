@@ -16,7 +16,5 @@
 2. Execute o comando `npm run dev` para rodar o projeto.
 3. Na pagina de login utilize o usuario `desafiosharenergy` e password `sh@r3n3rgy` para ter acesso as outras funções.
 
-<h2>
-<p align="center"> <a href="https://www.youtube.com/watch?v=bH19pVsqAuI"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/youtube-icon.png" alt="youtube" height="30" width="30" alt="github logo"> Vídeo de Apresentação do projeto <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/youtube-icon.png" alt="youtube" height="30" width="30" alt="postman logo"></a> </p>
-</h2>
-</br>
+
+https://youtu.be/mYkAVYB8Ir0
